@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Orange Scrapping</title>
+    <!-- https://electronjs.org/docs/tutorial/security#csp-meta-tag -->
+    <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline';" />
+    <link href="styles.css" rel="stylesheet"/>
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <div class="row">
+      <form action="#">
+        <p class="file">
+          <input type="file" name="file" id="file" />
+          <label for="file">Choisis ton fichier CSV</label>
+        </p>
+      </form>
+    </div>
+    <div class="row">
+      <button onclick="onUpload()">Charger le ficher</button>
+      <button id="button_scrap" onclick="onScrap()">Commencer le Scrap</button>
+      <button onclick="onDownload()">Télécharger le résultat</button>
+    </div>
+    <div class="row">
+      <table>
+        <tr>
+          <td>Adresse</td>
+          <td>Resultat</td>
+          <td>Date</td>
+          <td>Erreur</td>
+        </tr>
+      </table>
+    </div>    
+  </body>
+</html>

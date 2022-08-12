@@ -1,0 +1,539 @@
+{
+    "data": {
+        "availableFilters": {
+            "scoreFilters": [
+                {
+                    "value": "1_3",
+                    "count": 0,
+                    "name": "score_filters",
+                    "text": "Very Poor",
+                    "globalCount": 0
+                },
+                {
+                    "value": "3_5",
+                    "count": 1,
+                    "name": "score_filters",
+                    "text": "Poor",
+                    "globalCount": 1
+                },
+                {
+                    "count": 1,
+                    "value": "5_7",
+                    "text": "Average",
+                    "globalCount": 2,
+                    "name": "score_filters"
+                },
+                {
+                    "value": "7_9",
+                    "count": 0,
+                    "name": "score_filters",
+                    "globalCount": 3,
+                    "text": "Good"
+                },
+                {
+                    "text": "Wonderful",
+                    "globalCount": 5,
+                    "name": "score_filters",
+                    "count": 3,
+                    "value": "9_"
+                }
+            ],
+            "stayCustomerTypeFilters": [
+                {
+                    "count": 4,
+                    "value": "business_traveller",
+                    "globalCount": 6,
+                    "text": "Business travelers",
+                    "name": "stay_customer_type_filters"
+                },
+                {
+                    "value": "couple",
+                    "count": 2,
+                    "name": "stay_customer_type_filters",
+                    "text": "Couples",
+                    "globalCount": 4
+                },
+                {
+                    "text": "Families",
+                    "globalCount": 4,
+                    "name": "stay_customer_type_filters",
+                    "count": 1,
+                    "value": "family"
+                },
+                {
+                    "value": "solo_traveller",
+                    "count": 1,
+                    "name": "stay_customer_type_filters",
+                    "globalCount": 2,
+                    "text": "Solo travelers"
+                }
+            ],
+            "topicFilters": [
+                {
+                    "globalCount": 0,
+                    "count": 0,
+                    "value": 999001,
+                    "text": "Cleanliness",
+                    "lang": "xu",
+                    "name": "topic_filters",
+                    "subTopics": [
+                        79,
+                        127,
+                        150,
+                        276,
+                        310
+                    ]
+                },
+                {
+                    "count": 0,
+                    "value": 999000,
+                    "text": "Staff",
+                    "globalCount": 0,
+                    "lang": "xu",
+                    "name": "topic_filters",
+                    "subTopics": [
+                        230,
+                        201
+                    ]
+                }
+            ],
+            "guestCountryCodeFilters": [
+                {
+                    "count": 0,
+                    "value": "be",
+                    "globalCount": 1,
+                    "text": "Belgium",
+                    "name": "guest_country_code_filters"
+                },
+                {
+                    "name": "guest_country_code_filters",
+                    "globalCount": 5,
+                    "text": "France",
+                    "value": "fr",
+                    "count": 3
+                },
+                {
+                    "value": "ie",
+                    "count": 0,
+                    "name": "guest_country_code_filters",
+                    "text": "Ireland",
+                    "globalCount": 1
+                },
+                {
+                    "value": "it",
+                    "count": 1,
+                    "name": "guest_country_code_filters",
+                    "globalCount": 1,
+                    "text": "Italy"
+                },
+                {
+                    "name": "guest_country_code_filters",
+                    "globalCount": 1,
+                    "text": "Spain",
+                    "value": "es",
+                    "count": 0
+                },
+                {
+                    "value": "ch",
+                    "count": 1,
+                    "name": "guest_country_code_filters",
+                    "text": "Switzerland",
+                    "globalCount": 2
+                }
+            ]
+        },
+        "reviews": [
+            {
+                "hotelPositive": "Lo staff era gentile, ma con la poca conoscenza di inglese. La stanza era buona con una piccolo cucina, calda, pulita. Rapporto qualità e prezzo giusto. Io con la famiglia mi sono trovato bene e se sarà altra opportunità, ci tornerò. ",
+                "country": "it",
+                "name": "Nehô Suites Porte de Genève",
+                "hotelComfortFormatted": "7.5",
+                "hotelServicesFormatted": "10",
+                "hotelClean": 7.5,
+                "hotelCleanFormatted": "7.5",
+                "hotelAverage": "9.0",
+                "completed": "2021-10-07 09:08:41",
+                "hotelId": 7602220,
+                "hotelValueFormatted": "10",
+                "hotelValue": 10,
+                "hotelPositiveTrivial": 0,
+                "yourname": "Valeriano Falso",
+                "preferred": 1,
+                "hotelNegative": "Poso solo dire che non mi sono trovato bene con parcheggio avanti la struttura. Fermarci a mezza la strada era un po rischioso. Dopo che ho fatto chek in ho pagato anche per il parcheggio sotto la struttura, che è la cosa buona. Per me che mi sono trovato prima volta in questa città e in questo hotel era un po confuso, specialmente perché non parlo francese e ne anche loro un po inglese. Alla fine ci siamo capiti. Solo se il parcheggio avanti po essere un po meglio organizzato. ",
+                "suppressedComment": null,
+                "translateButtonStatus": "show",
+                "isNew": 0,
+                "anonymous": 0,
+                "hotelLocationFormatted": "5",
+                "id": "3161112017",
+                "experimentalAdditionalRatings": [
+                    {
+                        "scoreOutOf10Formatted": "10",
+                        "name": "Bathroom",
+                        "score": 4,
+                        "scoreOutOf10": 10
+                    },
+                    {
+                        "name": "Room Size",
+                        "scoreOutOf10Formatted": "5",
+                        "scoreOutOf10": 5,
+                        "score": 2
+                    },
+                    {
+                        "scoreOutOf10": 7.5,
+                        "score": 3,
+                        "name": "Room",
+                        "scoreOutOf10Formatted": "7.5"
+                    }
+                ],
+                "hotelStaffFormatted": "7.5",
+                "titleTrivial": 0,
+                "hotelStaff": 7.5,
+                "hotelNegativeTrivial": 0,
+                "approvalStatus": 0,
+                "canReply": "1",
+                "additionalRatings": [
+                    {
+                        "name": "ugcc_extranet_guest_reviews_additional_bed",
+                        "scoreOutOf10Formatted": "5",
+                        "scoreOutOf10": 5,
+                        "score": 2
+                    }
+                ],
+                "title": "Parcheggiare alla sosta in mezza la strada avanti la struttura.",
+                "hotelComfort": 7.5,
+                "hotelLocation": 5,
+                "hotelAverageFormatted": "9.0",
+                "language": "it",
+                "processingDate": "",
+                "suppressed": 0,
+                "reply": {
+                    "created": "2021-10-12 14:35:57",
+                    "approved": 0,
+                    "hotelierResponse": "Monsieur bonjour,\nNous vous remercions pour votre commentaire positif, au plaisir de vous revoir prochainement .\nCordialement, la reception,\nAlexander\n"
+                },
+                "processedBy": "",
+                "hotelCity": null,
+                "cc1": "fr",
+                "pagename": "neho-suites-porte-de-geneve",
+                "approved": "yes",
+                "hotelServices": 10,
+                "booknumber": 3161112017,
+                "ufi": {
+                    "__fromHasA__": 1,
+                    "ufi": -1407765
+                },
+                "class": "3.0"
+            },
+            {
+                "suppressed": 0,
+                "hotelCity": null,
+                "reply": "",
+                "processedBy": "",
+                "hotelAverageFormatted": "9.0",
+                "processingDate": "",
+                "language": "fr",
+                "hotelLocation": 10,
+                "hotelComfort": 7.5,
+                "canReply": "1",
+                "title": null,
+                "additionalRatings": [
+                    {
+                        "scoreOutOf10": 7.5,
+                        "score": 3,
+                        "name": "ugcc_extranet_guest_reviews_additional_bed",
+                        "scoreOutOf10Formatted": "7.5"
+                    }
+                ],
+                "ufi": {},
+                "class": "3.0",
+                "hotelServices": 7.5,
+                "pagename": "neho-suites-porte-de-geneve",
+                "approved": "yes",
+                "cc1": "fr",
+                "hotelId": 7602220,
+                "completed": "2021-10-02 22:41:16",
+                "hotelValueFormatted": "7.5",
+                "hotelValue": 7.5,
+                "hotelPositiveTrivial": 0,
+                "hotelCleanFormatted": "7.5",
+                "hotelClean": 7.5,
+                "hotelAverage": "9.0",
+                "hotelComfortFormatted": "7.5",
+                "hotelServicesFormatted": "7.5",
+                "hotelPositive": "L&#39;accueil à la réception et la disponibilité du personnel lors de notre petit déjeuner. L&#39;établissement est à proximité de la gare ce qui nous a été très confortable car nous avons circulé pendant tout le séjour grâce aux transports en commun.",
+                "country": "fr",
+                "name": "Nehô Suites Porte de Genève",
+                "hotelStaffFormatted": "10",
+                "titleTrivial": 0,
+                "hotelStaff": 10,
+                "approvalStatus": -2,
+                "hotelNegativeTrivial": 0,
+                "anonymous": 1,
+                "experimentalAdditionalRatings": [],
+                "id": "3384151302",
+                "hotelLocationFormatted": "10",
+                "suppressedComment": null,
+                "translateButtonStatus": "show",
+                "isNew": 0,
+                "hotelNegative": "Ras",
+                "preferred": 1
+            },
+            {
+                "cc1": "fr",
+                "approved": "yes",
+                "pagename": "neho-suites-porte-de-geneve",
+                "hotelServices": 2.5,
+                "booknumber": 3674371570,
+                "class": "3.0",
+                "ufi": {},
+                "canReply": "1",
+                "additionalRatings": [],
+                "title": "PLUS JAMAIS",
+                "hotelLocation": 10,
+                "hotelComfort": 5,
+                "language": "fr",
+                "processingDate": "",
+                "hotelAverageFormatted": "4.0",
+                "reply": {
+                    "created": "2021-09-28 02:33:12",
+                    "approved": 1,
+                    "hotelierResponse": "Chère Soraya,\n\nNous sommes absolument navrés pour cet incident, \r\nNous vous remercions d&#39;avoir mentionné l&#39;amabilité de notre équipe.\r\nEn ce qui concerne vos heures de départ tardif de 24 euros il est effectivement dommage que monsieur soit passé à la réception avant que vous nous fassiez part des désagréments de fuite d&#39;eau.\r\nC&#39;aurait été un plaisir de vous les offrir directement.\n\nBien cordialement,\n\nVéronique Kempa, Directrice générale"
+                },
+                "processedBy": "",
+                "hotelCity": null,
+                "suppressed": 0,
+                "preferred": 1,
+                "hotelNegative": "Frigo ne fonctionnait pas\r\nL&#39;eau de la douche a mis bien 10 min avant de chauffer, le flux d&#39;eau etait trop faible, très peu d&#39;eau coulait.\r\nJai donc laissé l&#39;eau coulé longtemps pour qu&#39;elle chauffe et pour me rincer correctement.\r\nEt a ma grande surprise, quand jai ouvert la porte de la cabine de douche, toute l&#39;eau s&#39;était évacuée dans la salle de bain et dans l&#39;entrée du studio. (chambre 116)\r\n\r\nJe me suis retrouvée a appeler la réception demander des draps et des serviettes et un balai pour reculer l&#39;eau.\r\n\r\nLa directrice le lendemain matin a l&#39;accueil n&#39;était pas gênée du tout de vouloir me facturer mes 2 heures supplémentaires dans la chambre, oui je suis sortie a 13h ah lieu de 11h.\r\nJ&#39;étais fatiguée et le lendemain matin, j&#39;ai pris plus de temps a boucher les rebors de douche pr espérer me laver que ma rincette qui a duré 2 minutes !\r\nAprès des négociations, elle decide enfin de me les rembourser a titre de geste commercial soit 24 euros, une nuité a 64 euros.\r\n\r\nPour moins que ca des hôtels vous remboursent la totalité de la réservation, je me suis déplacée pour le travail et ca été une soiree chaotique à cause de cette douche !\r\n\r\nJe remercie a nouveau l&#39;équipe de nuit a l&#39;accueil qui a su être réactive et accueillante. Je ne remercie pas la responsable ou directrice qui a été légèrement surprise de devoir s&#39;excuser et faire un geste commercial qui fut minable.\r\n\r\nJe déconseille malheureusement cet hôtel qui ne promet pas ce qu&#39;il indique sur les photos ou descriptifs !",
+                "translateButtonStatus": "show",
+                "isNew": 0,
+                "suppressedComment": null,
+                "hotelLocationFormatted": "10",
+                "id": "4564883762",
+                "experimentalAdditionalRatings": [],
+                "anonymous": 0,
+                "hotelNegativeTrivial": 0,
+                "approvalStatus": 1,
+                "hotelStaff": 10,
+                "hotelStaffFormatted": "10",
+                "titleTrivial": 0,
+                "country": "fr",
+                "name": "Nehô Suites Porte de Genève",
+                "hotelPositive": "L&#39;équipe de nuit a l&#39;accueil a été top !\r\nUn accueil chaleureux, des explications claires sur le fonctionnement global et le parking.\r\nTous pour se sentir a l&#39;aise et en sécurité, merci à eux !",
+                "hotelServicesFormatted": "2.5",
+                "hotelComfortFormatted": "5",
+                "hotelAverage": "4.0",
+                "hotelClean": 10,
+                "hotelCleanFormatted": "10",
+                "hotelValueFormatted": "2.5",
+                "hotelValue": 2.5,
+                "hotelPositiveTrivial": 0,
+                "yourname": "Soraya",
+                "completed": "2021-09-25 14:30:47",
+                "hotelId": 7602220
+            },
+            {
+                "cc1": "fr",
+                "pagename": "neho-suites-porte-de-geneve",
+                "approved": "yes",
+                "booknumber": 2737776803,
+                "hotelServices": 7.5,
+                "ufi": {},
+                "class": "3.0",
+                "canReply": "1",
+                "additionalRatings": [],
+                "title": null,
+                "hotelLocation": 10,
+                "hotelComfort": 7.5,
+                "hotelAverageFormatted": "6.0",
+                "processingDate": "",
+                "language": "fr",
+                "suppressed": 0,
+                "hotelCity": null,
+                "reply": {
+                    "approved": 1,
+                    "created": "2021-09-29 13:17:12",
+                    "hotelierResponse": "Cher Jean-Philippe,\n\nMerci pour les excellentes notes données à la qualité du service, à notre emplacement, à la propreté des lieux ainsi qu&#39;à notre rapport qualité-prix.\r\n\r\nLa caution est une pré-autorisation sur votre carte bancaire et non un débit. Celle-ci est libérée le jour du départ du client. Cependant, selon la banque à laquelle vous êtes affilié, la procédure peut prendre plus de temps. De notre côté, nous pouvons vous confirmer que la pré-autorisation a été clôturée. Nous vous invitons à solliciter votre banque pour en savoir plus.\n\nCe fut un plaisir de vous recevoir .\n\nVéronique Kempa, Directrice générale"
+                },
+                "processedBy": "",
+                "hotelNegative": "Remboursement du dépôt de garantie toujours en attente 6 jours après !! Non remboursé à ce jour!!!",
+                "preferred": 1,
+                "suppressedComment": null,
+                "translateButtonStatus": "show",
+                "isNew": 0,
+                "anonymous": 0,
+                "id": "4564185320",
+                "experimentalAdditionalRatings": [],
+                "hotelLocationFormatted": "10",
+                "hotelStaffFormatted": "10",
+                "titleTrivial": 0,
+                "hotelStaff": 10,
+                "approvalStatus": 1,
+                "hotelNegativeTrivial": 0,
+                "hotelPositive": null,
+                "country": "ch",
+                "name": "Nehô Suites Porte de Genève",
+                "hotelComfortFormatted": "7.5",
+                "hotelServicesFormatted": "7.5",
+                "hotelCleanFormatted": "10",
+                "hotelClean": 10,
+                "hotelAverage": "6.0",
+                "hotelId": 7602220,
+                "completed": "2021-09-19 12:47:29",
+                "yourname": "Jean-Philippe",
+                "hotelValue": 10,
+                "hotelValueFormatted": "10",
+                "hotelPositiveTrivial": 0
+            },
+            {
+                "hotelServices": 10,
+                "booknumber": 2309744666,
+                "class": "3.0",
+                "ufi": {},
+                "cc1": "fr",
+                "approved": "yes",
+                "pagename": "neho-suites-porte-de-geneve",
+                "language": "fr",
+                "processingDate": "",
+                "hotelAverageFormatted": "10",
+                "processedBy": "",
+                "reply": {
+                    "created": "2021-09-27 23:56:02",
+                    "approved": 1,
+                    "hotelierResponse": "Cher Michael,\nMerci pour votre retour positif.\n\nNous sommes ravis que nos prestations aient parfaitement répondu à vos attentes. Merci de mettre en avant la qualité de l&#39;accueil.\n\nAu plaisir de vous recevoir de nouveau pour une autre expérience tout aussi réussie,\n\nVéronique Kempa, Directrice générale"
+                },
+                "hotelCity": null,
+                "suppressed": 0,
+                "additionalRatings": [
+                    {
+                        "scoreOutOf10": 10,
+                        "score": 4,
+                        "name": "ugcc_extranet_guest_reviews_additional_bed",
+                        "scoreOutOf10Formatted": "10"
+                    },
+                    {
+                        "name": "ugcc_extranet_guest_reviews_additional_breakfast",
+                        "scoreOutOf10Formatted": "10",
+                        "scoreOutOf10": 10,
+                        "score": 4
+                    }
+                ],
+                "title": null,
+                "canReply": "1",
+                "hotelComfort": 10,
+                "hotelLocation": 10,
+                "hotelLocationFormatted": "10",
+                "experimentalAdditionalRatings": [
+                    {
+                        "name": "Bathroom",
+                        "scoreOutOf10Formatted": "10",
+                        "scoreOutOf10": 10,
+                        "score": 4
+                    },
+                    {
+                        "scoreOutOf10": 10,
+                        "score": 4,
+                        "name": "Room facilities",
+                        "scoreOutOf10Formatted": "10"
+                    },
+                    {
+                        "score": 4,
+                        "scoreOutOf10": 10,
+                        "scoreOutOf10Formatted": "10",
+                        "name": "Room lighting"
+                    },
+                    {
+                        "name": "Room",
+                        "scoreOutOf10Formatted": "10",
+                        "scoreOutOf10": 10,
+                        "score": 4
+                    }
+                ],
+                "id": "2309744666",
+                "anonymous": 0,
+                "hotelNegativeTrivial": 0,
+                "approvalStatus": 1,
+                "titleTrivial": 0,
+                "hotelStaff": 10,
+                "hotelStaffFormatted": "10",
+                "preferred": 1,
+                "hotelNegative": "Rien",
+                "isNew": 0,
+                "translateButtonStatus": "show",
+                "suppressedComment": null,
+                "hotelAverage": 10,
+                "hotelClean": 10,
+                "hotelCleanFormatted": "10",
+                "hotelPositiveTrivial": 0,
+                "hotelValueFormatted": "10",
+                "hotelValue": 10,
+                "yourname": "ferrand michael",
+                "completed": "2021-09-17 21:31:02",
+                "hotelId": 7602220,
+                "name": "Nehô Suites Porte de Genève",
+                "country": "fr",
+                "hotelPositive": "Acceuil super agreable ,chambre tres spacieuse .\nConfortable .... ",
+                "hotelServicesFormatted": "10",
+                "hotelComfortFormatted": "10"
+            }
+        ],
+        "isInternalUser": 0,
+        "totalCount": 5,
+        "unfilteredTotalCount": 11,
+        "pageCount": 1
+    },
+    "params": {
+        "errors": [],
+        "details": {
+            "only_with_comments": {
+                "valid": 1,
+                "msg": null,
+                "original": "1",
+                "value": "1"
+            },
+            "offset": {
+                "value": "0",
+                "original": "0",
+                "msg": null,
+                "valid": 1
+            },
+            "only_without_replies": {
+                "msg": null,
+                "original": "0",
+                "value": "0",
+                "valid": 1
+            },
+            "lang": {
+                "valid": 1,
+                "msg": null,
+                "original": "xu",
+                "value": "xu"
+            },
+            "rows": {
+                "msg": null,
+                "value": "10",
+                "original": "10",
+                "valid": 1
+            },
+            "hotel_id": {
+                "valid": 1,
+                "msg": null,
+                "original": "7602220",
+                "value": "7602220"
+            },
+            "search_term": {
+                "original": "",
+                "value": "",
+                "msg": null,
+                "valid": 1
+            },
+            "sort_order": {
+                "valid": 1,
+                "msg": null,
+                "original": "",
+                "value": ""
+            }
+        }
+    },
+    "success": 1
+}

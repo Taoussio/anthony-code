@@ -1,0 +1,46 @@
+.Home {
+    .header {
+        display: flex;
+
+        .helem {
+            flex: 1;
+
+            img {
+                max-width: 150px;
+            }
+        }
+    }
+
+    .body {
+        width: 1200px;
+        margin: auto;
+        background-color: white;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+        padding: 40px;
+
+        .container {
+            display: flex;
+
+            .textview {
+                flex: 1;
+                margin: 10px;
+            }
+
+            .inputlabel {
+                margin-left: 12px;
+            }
+        }
+    }
+
+    .body2 {
+        width: 1600px;
+
+        .container {
+            h3 {
+                flex: 1;
+            }
+        }
+    }
+}

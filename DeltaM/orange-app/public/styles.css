@@ -1,0 +1,68 @@
+html,
+body {
+    font-family: "source_sans_proregular", Helvetica, "Droid Sans", Arial, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+td {
+    width: 25%;
+    height: 40px;
+}
+
+table {
+    width: 100%;
+}
+
+.row {
+    margin-top: 10px;
+}
+
+button {
+    width: 200px;
+    height: 50px;
+    border: 0;
+    background: none;
+    color: white;
+    background-color: orange;
+    box-shadow: none;
+    border-radius: 0px;
+    cursor: pointer;
+}
+
+label {
+    height: 50px;
+}
+
+.file {
+    position: relative;
+}
+.file label {
+    background: #39d2b4;
+    padding: 5px 20px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 0.9em;
+    transition: all 0.4s;
+}
+.file input {
+    position: absolute;
+    display: inline-block;
+    left: 0;
+    top: 0;
+    opacity: 0.01;
+    cursor: pointer;
+}
+.file input:hover + label,
+.file input:focus + label {
+    background: #34495e;
+    color: #39d2b4;
+}

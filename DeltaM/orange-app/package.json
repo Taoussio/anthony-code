@@ -1,0 +1,21 @@
+{
+  "name": "orange-scrapping",
+  "version": "1.2.0",
+  "main": "src/app.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder",
+    "macOS": "electron-builder",
+    "help": "electron-builder --help"
+  },
+  "devDependencies": {
+    "electron": "^10.1.1",
+    "electron-builder": "^22.8.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
